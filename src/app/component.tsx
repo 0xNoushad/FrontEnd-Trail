@@ -132,6 +132,12 @@ export default function Component() {
           </div>
         </CardFooter>
       </Card>
+
+      <p  className="border-l-red-60 text-center"> 
+
+        Disabled Pump fun api for Privacy reason this will only serve as a front end to the blink Project
+      </p>
     </div>
+ 
   )
 }
